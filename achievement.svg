@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- 青い背景 -->
+  <rect width="200" height="60" rx="10" fill="#2563EB" />
+  
+  <!-- 星のアイコン -->
+  <path d="M40 20 L43 29 L52 29 L45 35 L47 44 L40 39 L33 44 L35 35 L28 29 L37 29 Z" fill="#FFD700" />
+  
+  <!-- テキスト -->
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">実績達成！</text>
+</svg>
